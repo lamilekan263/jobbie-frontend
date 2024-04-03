@@ -43,7 +43,7 @@ const Login = () => {
   const { errors, touched, values, handleBlur, handleChange, handleSubmit } =
     formik
   return (
-    <div className='h-screen  '>
+    <div className='h-screen '>
       <div className='h-full relative rounded-full flex'>
         <div className="hidden lg:block  flex-1 bg-[url('https://images.pexels.com/photos/3293148/pexels-photo-3293148.jpeg?auto=compress&cs=tinysrgb&w=800')]"></div>
         <div className='flex-1  flex  justify-center items-center mx-auto '>
